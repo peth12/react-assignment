@@ -4,7 +4,7 @@ function Owner() {
   return (
     <div>
         <Layout>
-         <h1>Peth ja</h1>
+         
         </Layout>
     </div>
   )
